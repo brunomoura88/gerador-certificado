@@ -1,5 +1,7 @@
 # Gerador de Certificados
 
+![Preview](public/preview.png)
+
 Este projeto é uma aplicação Angular para geração e gerenciamento de certificados acadêmicos.
 
 ## Funcionalidades
