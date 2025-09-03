@@ -2,6 +2,8 @@
 
 ![Preview](public/preview.png)
 
+Acesse o projeto online: [geradarcertificado.netlify.app](https://geradarcertificado.netlify.app)
+
 Este projeto é uma aplicação Angular para geração e gerenciamento de certificados acadêmicos.
 
 ## Funcionalidades
