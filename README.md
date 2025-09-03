@@ -1,6 +1,6 @@
 # Gerador de Certificados
 
-![Preview](public/preview.png)
+![Preview](./public/preview.png)
 
 Acesse o projeto online: [geradarcertificado.netlify.app](https://geradarcertificado.netlify.app)
 
